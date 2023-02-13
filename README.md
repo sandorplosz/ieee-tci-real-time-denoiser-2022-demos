@@ -15,7 +15,7 @@ The application performs depth and reflectivity estimation, denoising and 3D rec
 
 **The datasets for the demos will be made available shortly!** These are real underwater LiDaR data acquired with a 192*128 SPAD array.
 
-A video from the clear water experiment shows the processed point-cloud along with images captured by RGB cameras:
+A video from the clear water experiment shows the reconstructed point-cloud along with images captured by RGB cameras:
 
 https://user-images.githubusercontent.com/15447939/218517848-12057152-e37f-4689-8ce1-0b27259932d5.mp4
 

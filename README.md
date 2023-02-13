@@ -15,6 +15,14 @@ The application performs depth and reflectivity estimation, denoising and 3D rec
 
 **The datasets for the demos will be made available shortly!** These are real underwater LiDaR data acquired with a 192*128 SPAD array.
 
+<!---
+A video from the clear water experiment shows the processed point-cloud along with images captured by RGB cameras:
+[vid](https://www.dropbox.com/s/rfoy9q2a18aba7u/vid05_Clearwater_SubFishSeaweed_sum32.mp4)
+-->
+
+Videos from experiments in different AL (contaminated) water conditions can be found [here](https://www.dropbox.com/home/fast_denoiser_videos).
+
+
 # Requirements
 - Windows computer (compiled on win 10)
 - CUDA capable GPU

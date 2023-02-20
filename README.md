@@ -24,7 +24,7 @@ More videos from experiments in different AL (contaminated) water conditions can
 # Requirements
 - Windows computer (compiled with Visual Studio 2019 on Windows 10 x64)
 - CUDA capable GPU (min. sm_50 Maxwell architecture)
-- CUDA driver min. 452.39 (compiled with CUDA v11.6)
+- NVIDIA driver min. 452.39 (compiled with CUDA v11.6)
 
 # Launching the demo
 1. Downloaded the binary datasets and extract them to the data folder.

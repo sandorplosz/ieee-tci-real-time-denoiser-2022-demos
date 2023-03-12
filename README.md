@@ -22,8 +22,9 @@ https://user-images.githubusercontent.com/15447939/218517848-12057152-e37f-4689-
 More videos from experiments in different AL (contaminated) water conditions can be found [here](https://www.dropbox.com/home/fast_denoiser_videos).
 
 # Requirements
-- Windows computer (compiled on win 10)
-- CUDA capable GPU
+- Windows computer (compiled with Visual Studio 2019 on Windows 10 x64)
+- CUDA capable GPU (min. sm_50 Maxwell architecture)
+- NVIDIA driver min. 452.39 (compiled with CUDA v11.6)
 
 # Launching the demo
 1. Downloaded the binary datasets and extract them to the data folder.

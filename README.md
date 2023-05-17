@@ -19,7 +19,7 @@ A video from the clear water experiment shows the reconstructed point-cloud alon
 
 https://user-images.githubusercontent.com/15447939/218517848-12057152-e37f-4689-8ce1-0b27259932d5.mp4
 
-More videos from experiments in different AL (contaminated) water conditions can be found [here](https://www.dropbox.com/home/fast_denoiser_videos).
+More videos from experiments in different AL (contaminated) water conditions can be found [here](https://www.dropbox.com/sh/lyi1piiuxa3qgpx/AABDsXaNwyrEk1R98kU6udCxa?dl=0).
 
 # Requirements
 - Windows computer (compiled with Visual Studio 2019 on Windows 10 x64)
